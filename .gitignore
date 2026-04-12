@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+data/vector_store/chroma.sqlite3
 
 # Virtual environments
 .venv
